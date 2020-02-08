@@ -1,4 +1,5 @@
 const tab = [24,1,34];
+syf(tab);
 function syf(qr){
     if (qr[0] > 10) {
         qr[0] = 5;     
